@@ -5,5 +5,12 @@
   "sha256": "5e75656a4802dd63076bea82ddaec461ea09cbde71014da7e841c2c49628d411",
   "tamanho": 735920,
   "publicado_em": "2026-10-07T00:55:42.499Z",
-  "assinatura": "e2V8bGHb/c/k2pEZzIdr320xtIVHrp5ZWmpi/6QyFgiNxSaBEoa8Ijo7UDFEZdO/Li073BGG55//OjnsGOSaCw=="
+  "assinatura": "e2V8bGHb/c/k2pEZzIdr320xtIVHrp5ZWmpi/6QyFgiNxSaBEoa8Ijo7UDFEZdO/Li073BGG55//OjnsGOSaCw==",
+  "programa": {
+    "versao": "1.0.8",
+    "url": "https://github.com/VICTORBBBR21/tourgest-atualizacoes/releases/download/v2026.10.06.215542/Instalar-TourGest.exe",
+    "sha256": "663641eaf6ba2c2e546313232d1bcabfc9b55cc86e12e60f9972f14a91b2f318",
+    "tamanho": 110867805
+  },
+  "assinatura_programa": "+mj0UcZtenDrQGKjOXpUqnjHgU1KbDmRMMpnVj/X0vk4j5SN74jcGfOiwSgUdMKHJf8Dt09OjeRRl2Vc5/oWBQ=="
 }
