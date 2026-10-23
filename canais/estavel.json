@@ -1,16 +1,16 @@
 {
-  "versao": "2026.10.22.214502",
+  "versao": "2026.10.22.220141",
   "canal": "estavel",
-  "url": "https://github.com/VICTORBBBR21/tourgest-atualizacoes/releases/download/v2026.10.22.214502/tourgest-2026.10.22.214502.tgpkg",
-  "sha256": "78b74a5e4431de211d830d8dc459eb534a940374cb8a477fa37ffde4167cccaa",
-  "tamanho": 1477894,
-  "publicado_em": "2026-10-23T00:45:02.951Z",
-  "assinatura": "53VvSq5sI39UWhK29JH/B0QCGIgIoeSC5kjE5Tci9JGB+r4n0HQeLeT2zM5y85V0m+ueqAAcsqIWKOYJ9Ce+CA==",
+  "url": "https://github.com/VICTORBBBR21/tourgest-atualizacoes/releases/download/v2026.10.22.220141/tourgest-2026.10.22.220141.tgpkg",
+  "sha256": "932e1fd598b1a5f29bbb3cde80db1e4e03efa8d9e43baaf16605d29fddca0493",
+  "tamanho": 1479211,
+  "publicado_em": "2026-10-23T01:01:41.578Z",
+  "assinatura": "el3iybcM+Ekt2K1H6+Er9v/86Lw38O37SWQpZ7bUk3IghTHW6sXvPTEOBI0SOCoKyDzdWTEJEvnqi/etNC/ZCg==",
   "programa": {
     "versao": "1.0.11",
-    "url": "https://github.com/VICTORBBBR21/tourgest-atualizacoes/releases/download/v2026.10.22.214502/Instalar-TourGest.exe",
-    "sha256": "d8b0000f210f80a79f690c35ce1eff7b1df98d623ba60f63fa70ecd1c118ef0a",
-    "tamanho": 111369839
+    "url": "https://github.com/VICTORBBBR21/tourgest-atualizacoes/releases/download/v2026.10.22.220141/Instalar-TourGest.exe",
+    "sha256": "3bfbf0f85aa6fc320c30e9b8d6efc445c954474b341a76e6947390c6532002c0",
+    "tamanho": 111370791
   },
-  "assinatura_programa": "uArX3nTrmqOSzP8S3kBcSKPY2EXNB5QIZ3albq0yfTM+0PUIwuqiWedpQuhP17KPuJME4hguqYDITa9ko3BYBQ=="
+  "assinatura_programa": "+pUEcmKxC2MW90YeXTVeTC1EPxpIJpeSsdadMhdxkTo/ZoCmwlOWWszK0II2MugWFfWRqWQCBFVaCKs2nT3/CA=="
 }
